@@ -13,7 +13,8 @@
 		271A56E328BC6B7B00020553 /* UseSpacer.xib in Resources */ = {isa = PBXBuildFile; fileRef = 271A56E228BC6B7B00020553 /* UseSpacer.xib */; };
 		271A56E528BC6C3000020553 /* UseHuggingPriority2.xib in Resources */ = {isa = PBXBuildFile; fileRef = 271A56E428BC6C3000020553 /* UseHuggingPriority2.xib */; };
 		271A56E728BC823800020553 /* LongAutoLayoutError.xib in Resources */ = {isa = PBXBuildFile; fileRef = 271A56E628BC823800020553 /* LongAutoLayoutError.xib */; };
-		271A56E928BC834D00020553 /* UseCompressionResistancePriority.xib in Resources */ = {isa = PBXBuildFile; fileRef = 271A56E828BC834D00020553 /* UseCompressionResistancePriority.xib */; };
+		271A56E928BC834D00020553 /* UseCompressionResistancePriority1.xib in Resources */ = {isa = PBXBuildFile; fileRef = 271A56E828BC834D00020553 /* UseCompressionResistancePriority1.xib */; };
+		271A56EB28BC845600020553 /* UseCompressionResistancePriority2.xib in Resources */ = {isa = PBXBuildFile; fileRef = 271A56EA28BC845600020553 /* UseCompressionResistancePriority2.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,7 +25,8 @@
 		271A56E228BC6B7B00020553 /* UseSpacer.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = UseSpacer.xib; sourceTree = "<group>"; };
 		271A56E428BC6C3000020553 /* UseHuggingPriority2.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = UseHuggingPriority2.xib; sourceTree = "<group>"; };
 		271A56E628BC823800020553 /* LongAutoLayoutError.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = LongAutoLayoutError.xib; sourceTree = "<group>"; };
-		271A56E828BC834D00020553 /* UseCompressionResistancePriority.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = UseCompressionResistancePriority.xib; sourceTree = "<group>"; };
+		271A56E828BC834D00020553 /* UseCompressionResistancePriority1.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = UseCompressionResistancePriority1.xib; sourceTree = "<group>"; };
+		271A56EA28BC845600020553 /* UseCompressionResistancePriority2.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = UseCompressionResistancePriority2.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,7 +65,8 @@
 				271A56E028BC69BD00020553 /* UseHuggingPriority1.xib */,
 				271A56E428BC6C3000020553 /* UseHuggingPriority2.xib */,
 				271A56E228BC6B7B00020553 /* UseSpacer.xib */,
-				271A56E828BC834D00020553 /* UseCompressionResistancePriority.xib */,
+				271A56E828BC834D00020553 /* UseCompressionResistancePriority1.xib */,
+				271A56EA28BC845600020553 /* UseCompressionResistancePriority2.xib */,
 			);
 			path = UIStackViewPrioritySample;
 			sourceTree = "<group>";
@@ -127,7 +130,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				271A56DD28BC674300020553 /* ShortAutoLayoutError.xib in Resources */,
-				271A56E928BC834D00020553 /* UseCompressionResistancePriority.xib in Resources */,
+				271A56E928BC834D00020553 /* UseCompressionResistancePriority1.xib in Resources */,
+				271A56EB28BC845600020553 /* UseCompressionResistancePriority2.xib in Resources */,
 				271A56E728BC823800020553 /* LongAutoLayoutError.xib in Resources */,
 				271A56E528BC6C3000020553 /* UseHuggingPriority2.xib in Resources */,
 				271A56E328BC6B7B00020553 /* UseSpacer.xib in Resources */,
