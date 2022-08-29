@@ -9,16 +9,18 @@
 /* Begin PBXBuildFile section */
 		271A56DD28BC674300020553 /* AutoLayoutError.xib in Resources */ = {isa = PBXBuildFile; fileRef = 271A56DC28BC674300020553 /* AutoLayoutError.xib */; };
 		271A56DF28BC68D900020553 /* FixedSize.xib in Resources */ = {isa = PBXBuildFile; fileRef = 271A56DE28BC68D900020553 /* FixedSize.xib */; };
-		271A56E128BC69BD00020553 /* UseHuggingPriority.xib in Resources */ = {isa = PBXBuildFile; fileRef = 271A56E028BC69BD00020553 /* UseHuggingPriority.xib */; };
+		271A56E128BC69BD00020553 /* UseHuggingPriority1.xib in Resources */ = {isa = PBXBuildFile; fileRef = 271A56E028BC69BD00020553 /* UseHuggingPriority1.xib */; };
 		271A56E328BC6B7B00020553 /* UseSpacer.xib in Resources */ = {isa = PBXBuildFile; fileRef = 271A56E228BC6B7B00020553 /* UseSpacer.xib */; };
+		271A56E528BC6C3000020553 /* UseHuggingPriority2.xib in Resources */ = {isa = PBXBuildFile; fileRef = 271A56E428BC6C3000020553 /* UseHuggingPriority2.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		271A56C328BC652200020553 /* UIStackViewPrioritySample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UIStackViewPrioritySample.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		271A56DC28BC674300020553 /* AutoLayoutError.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = AutoLayoutError.xib; sourceTree = "<group>"; };
 		271A56DE28BC68D900020553 /* FixedSize.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = FixedSize.xib; sourceTree = "<group>"; };
-		271A56E028BC69BD00020553 /* UseHuggingPriority.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = UseHuggingPriority.xib; sourceTree = "<group>"; };
+		271A56E028BC69BD00020553 /* UseHuggingPriority1.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = UseHuggingPriority1.xib; sourceTree = "<group>"; };
 		271A56E228BC6B7B00020553 /* UseSpacer.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = UseSpacer.xib; sourceTree = "<group>"; };
+		271A56E428BC6C3000020553 /* UseHuggingPriority2.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = UseHuggingPriority2.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,7 +55,8 @@
 			children = (
 				271A56DC28BC674300020553 /* AutoLayoutError.xib */,
 				271A56DE28BC68D900020553 /* FixedSize.xib */,
-				271A56E028BC69BD00020553 /* UseHuggingPriority.xib */,
+				271A56E028BC69BD00020553 /* UseHuggingPriority1.xib */,
+				271A56E428BC6C3000020553 /* UseHuggingPriority2.xib */,
 				271A56E228BC6B7B00020553 /* UseSpacer.xib */,
 			);
 			path = UIStackViewPrioritySample;
@@ -118,9 +121,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				271A56DD28BC674300020553 /* AutoLayoutError.xib in Resources */,
+				271A56E528BC6C3000020553 /* UseHuggingPriority2.xib in Resources */,
 				271A56E328BC6B7B00020553 /* UseSpacer.xib in Resources */,
 				271A56DF28BC68D900020553 /* FixedSize.xib in Resources */,
-				271A56E128BC69BD00020553 /* UseHuggingPriority.xib in Resources */,
+				271A56E128BC69BD00020553 /* UseHuggingPriority1.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
